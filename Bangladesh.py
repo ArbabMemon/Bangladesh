@@ -305,7 +305,7 @@ def pilih_super():
 
 	jalan('             \033[1;31mArbab Clonning Started Please Wait...')
 	print  "\033[1;36;40m√
-"●√════════════════════════◄
+●√════════════════════════◄
 ►════════════════════════√●" 
 
 	def main(arg):
